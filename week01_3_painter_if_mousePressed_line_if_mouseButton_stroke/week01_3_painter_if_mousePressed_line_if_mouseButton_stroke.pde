@@ -11,3 +11,4 @@ void draw() {
   if (mousePressed) line(mouseX, mouseY, pmouseX, pmouseY);
   // 按下去時 (用剛剛的色彩) 畫線 mouse座標、之前mouse座標
 }
+// 不懂的字, 可以選它, 右鍵 Find in References 參考文件找它
